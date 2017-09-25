@@ -45,7 +45,10 @@ hs_err_pid*
 /**/af.reporting
 /**/.idea/
 *.iml
-
+.idea
+.mvn
+target/
+	
 # ignore log
 *.log
 
